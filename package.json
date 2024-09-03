@@ -1,0 +1,14 @@
+{
+  "name": "Dexil",
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^14.16.1",
+    "dotenv": "^16.4.5"
+  }
+}
+
